@@ -1,0 +1,9 @@
+# Uploaded courier/seller application documents
+assets/docs/*
+!assets/docs/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
