@@ -6,6 +6,7 @@ A small-scale online marketplace built with PHP and MySQL, with four user roles:
 ![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-custom%20design%20system-1572B6?logo=css3&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
@@ -156,3 +157,7 @@ This is a learning project, not production software. Queries are built with esca
 ## About
 
 Developed by **Umut Tuna** as a course project for ITEC327 — Server-Side Internet and Web Programming.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
