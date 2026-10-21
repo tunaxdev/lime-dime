@@ -13,6 +13,18 @@ Lime&Dime started as a university assignment for a "Digital Mall System" with th
 
 The goal was a platform that feels warm and handcrafted while staying professional, something small local businesses would actually enjoy using.
 
+## Screenshots
+
+![Homepage](docs/screenshots/home.jpg)
+
+| Product catalog | Product detail |
+| --- | --- |
+| ![Product catalog](docs/screenshots/category.jpg) | ![Product detail](docs/screenshots/product.jpg) |
+| **Order tracking** | **Seller panel** |
+| ![Order tracking](docs/screenshots/orders.jpg) | ![Seller panel](docs/screenshots/manager.jpg) |
+| **Courier panel** | **Admin panel** |
+| ![Courier panel](docs/screenshots/courier.jpg) | ![Admin panel](docs/screenshots/admin.jpg) |
+
 ## Features
 
 **Customer**
@@ -79,6 +91,7 @@ limedime/
 │   └── docs/             # Uploaded application documents (not tracked)
 ├── database/
 │   └── lime_dime_db.sql  # Schema and demo data
+├── docs/                 # Screenshots and original course report
 ├── index.php, category.php, product.php, sellers.php, seller.php
 ├── cart.php, checkout.php, order-success.php, orders.php, profile.php
 ├── login.php, register.php, manager-register.php, courier-register.php, logout.php
